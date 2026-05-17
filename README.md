@@ -69,8 +69,8 @@ I'm **Mohamed**, a passionate Mobile App Developer specializing in Flutter devel
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mhmaldyb510&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmaldyb510&layout=compact&theme=react&border_radius=10&langs_count=8" alt="top langs" />
+  <img width="390" src="https://github-readme-stats-fast.vercel.app/api?username=mhmaldyb510&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="325" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhmaldyb510&layout=compact&theme=react&border_radius=10&langs_count=8" alt="top langs" />
 </div>
 
 <br>
